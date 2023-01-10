@@ -4,4 +4,10 @@
   top: 30px;
   left: 64px;
   background-image: url(../../../images/logo_place_header.svg);
+  opacity: 1;
+  transition: opacity 1s ease;
+}
+
+.logo_place_header:hover {
+  opacity: 0.5;
 }

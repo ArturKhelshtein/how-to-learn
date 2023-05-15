@@ -1,7 +1,8 @@
 .resources__link {
   width: 270px;
   height: 38px;
-  display: inline-block;
+  display: flex;
+  justify-content: center;
   text-decoration: none;
   opacity: 1;
   transition: opacity 1s ease;
